@@ -1,0 +1,1 @@
+由于程序是用java编写的andriod程序，所以测试使用eclipse中的junit。在eclipse中安装Ant和andriod模拟器后就可以运行测试。
